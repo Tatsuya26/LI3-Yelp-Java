@@ -1,6 +1,7 @@
 # LI3-Yelp-Java
 Project from Laboratórios de Informática 3
-Build Yelp in Java.
+
+Yelp in Java.
 
 Contributors:
 
